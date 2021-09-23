@@ -27,3 +27,7 @@ This was our first time developing games together. We had to identify independen
 - Git clone this repo
 - Go to the ToPlayGame file
 - Open the exe file to play!
+
+### Credits
+- [Feng Ye](https://github.com/CaedenZ)
+- [Wan Rui](https://github.com/steamedbao)
