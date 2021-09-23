@@ -1,5 +1,5 @@
 # Once in a Melon
-A Free-For-All party game made in a Game Jam module with 2 other Developers!
+A Free-For-All, watermelon throwing, party game made in a Game Jam module with 2 other Developers!
 
 ![alt-text](https://github.com/sleepy-pan-da/Once-in-a-Melon/blob/8d6f943a4e05762bb11b7cc590020b2a97538853/assets/Gifs/demo.gif)
 
