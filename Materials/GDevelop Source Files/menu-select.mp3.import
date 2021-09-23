@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/menu-select.mp3-c777724160560a5a531aca8676968d70.mp3str"
+
+[deps]
+
+source_file="res://Materials/GDevelop Source Files/menu-select.mp3"
+dest_files=[ "res://.import/menu-select.mp3-c777724160560a5a531aca8676968d70.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

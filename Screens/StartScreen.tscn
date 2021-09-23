@@ -51,4 +51,5 @@ margin_bottom = 240.0
 size_flags_vertical = 3
 custom_fonts/font = SubResource( 2 )
 text = "Start"
+
 [connection signal="pressed" from="CanvasLayer/VBoxContainer/Button" to="." method="_on_Button_pressed"]
