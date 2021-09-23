@@ -24,4 +24,6 @@ Godot engine - We felt that this engine was more suitable for this project as it
 This was our first time developing games together. We had to identify independent components in the game to allow for simultaneous development. Communication was important as well when integrating our components together. 
 
 ## How to install the game?
-
+- Git clone this repo
+- Go to the ToPlayGame file
+- Open the exe file to play!
